@@ -1,7 +1,8 @@
 # Sales and Revenue Forecasting Project
 
 ## Project Overview
-This project focuses on predicting weekly sales for Walmart stores using historical sales data and various economic and seasonal factors. Additionally, it includes a comprehensive data analysis and visualization dashboard built using Power BI to provide insights into sales trends and contributing factors.
+This project focuses on predicting weekly sales for Walmart stores using historical sales data and various economic and seasonal factors. Additionally, it includes a comprehensive data analysis and visualization dashboard built using Power BI to provide insights into sales trends and contributing factors. You can view the [Live Dashboard](https://app.powerbi.com/groups/me/reports/13d5e6fe-2da9-4f8a-8718-10c2eee4d377/e17ec0dda954fdee9222?experience=power-bi)
+
 
 ## Key Objectives
 - Build a machine learning model to predict weekly sales.
@@ -75,9 +76,7 @@ Both models were evaluated for performance. The Decision Tree Regressor captured
 - **Economic Factors Analysis**:
   - Impact of CPI, fuel price, and markdowns on sales.
   - Correlation between temperature and weekly sales.
-
-[View the Live Dashboard](https://app.powerbi.com/groups/me/reports/13d5e6fe-2da9-4f8a-8718-10c2eee4d377/e17ec0dda954fdee9222?experience=power-bi)
-
+    
 ---
 
 ## Data Model in Power BI
