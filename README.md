@@ -55,7 +55,7 @@ The project utilizes four main datasets:
 - Trained Linear Regression and Decision Tree Regressor models to predict weekly sales.
 - Evaluated models using metrics such as MAE, RMSE, and R².
 
-### 3. Visualization and Dashboard
+### 5. Visualization and Dashboard
 - Built an interactive Power BI report featuring:
   - **Historical Analysis**: Trends and patterns of weekly sales.
   - **Predicted Sales**: Visualized forecasted sales.
