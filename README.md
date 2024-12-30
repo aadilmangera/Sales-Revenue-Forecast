@@ -114,8 +114,3 @@ The data model includes relationships between the following tables:
 - Implement advanced machine learning models like Random Forest or XGBoost for improved accuracy.
 - Include external datasets (e.g., regional economic data or weather patterns) for better feature engineering.
 - Add more detailed insights in Power BI using DAX calculations.
-
----
-
-## Contributors
-- [Aadil Mangera](https://github.com/aadilmangera)
