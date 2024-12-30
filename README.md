@@ -66,7 +66,7 @@ The project utilizes four main datasets:
 ## Project Highlights
 
 ### Machine Learning Results
-Both models were evaluated for performance. The Decision Tree Regressor captured non-linear relationships better with an an RMSE of **[21960.77]**, making it the preferred model for forecasting.
+Both models were evaluated for performance. The Decision Tree Regressor captured non-linear relationships better with an an RMSE of **21960.77**, making it the preferred model for forecasting.
 
 ### Power BI Dashboard
 - **Overview Page**: Showcases key metrics and trends.
